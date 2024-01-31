@@ -1,2 +1,2 @@
-# doit
-This is a Golang bases a terminal todo app
+# Doit
+This is a simple Golang-based CLI todo app.
